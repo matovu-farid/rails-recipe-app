@@ -20,6 +20,9 @@ git clone your https://github.com/rachidelaid/rails-recipe-app.git
 cd recipe
 bundle install
 rails s
+
+## Live version
+[Live](https://vast-cove-51359.herokuapp.com/)
 ```
 ## Tests
 To run the tests, navigate to the root directory of this app and run
